@@ -1,0 +1,17 @@
+<templateSet group="surround">
+  <template name="quote" value="&quot;$SELECTION$&quot;" description="surroud with quote" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="parentheses" value="($SELECTION$)" description="surround with parentheses" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="curlybrace" value="{$SELECTION$}" description="surround with curlybrace" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
