@@ -2,9 +2,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
   <action id="ChangeTypeSignature" />
   <action id="CloseProject">
@@ -12,6 +12,7 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
@@ -65,11 +66,19 @@
     <keyboard-shortcut first-keystroke="shift meta f6" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
+  <action id="SurroundWith" />
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="TerminalSplitActionBase$Horizontal">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="TerminalSplitActionBase$Vertical">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
