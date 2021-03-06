@@ -4,9 +4,9 @@
       <mapping pattern="client_app_credentials" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

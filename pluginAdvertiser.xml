@@ -74,6 +74,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.avdl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.sf.opk.avro-schema-support" />
+              <option name="myPluginName" value="Apache Avro IDL Schema Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.avpr">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.sf.opk.avro-schema-support" />
+              <option name="myPluginName" value="Apache Avro IDL Schema Support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.avsc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.sf.opk.avro-schema-support" />
+              <option name="myPluginName" value="Apache Avro IDL Schema Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bash">
           <value>
             <plugin>
