@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="client_app_credentials" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
