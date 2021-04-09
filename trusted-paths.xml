@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Desktop/spring_lab/spring_testing" />
+        <option value="$USER_HOME$/Desktop/spring_lab/spring_security/oauth2-spring-security-spring-boot/effective-oauth2-with-spring/module_3" />
       </list>
     </option>
   </component>
