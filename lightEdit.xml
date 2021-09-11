@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/Desktop/labs/spring_lab/spring_data/tutorials/spring-4/src/test/java/com/baeldung/spring43/defaultmethods/ITransactionalUnitTest.java" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -12,6 +17,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="0" y="23" width="1232" height="1057" />
     </option>
   </component>
 </application>
