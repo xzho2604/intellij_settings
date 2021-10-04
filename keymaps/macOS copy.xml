@@ -71,6 +71,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="SendEOF" />
   <action id="SurroundWith" />
   <action id="Terminal.SwitchFocusToEditor">
