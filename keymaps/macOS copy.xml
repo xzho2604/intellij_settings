@@ -11,7 +11,6 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta 9" />
@@ -81,9 +80,6 @@
   </action>
   <action id="TerminalSplitActionBase$Horizontal">
     <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
-  <action id="TerminalSplitActionBase$Vertical">
-    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.UpdateProject" />
