@@ -35,6 +35,9 @@
     <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl meta back_space" />
+  </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift meta quote" />
     <keyboard-shortcut first-keystroke="meta m" />
