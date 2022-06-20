@@ -30,6 +30,12 @@
   </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
